@@ -5,19 +5,19 @@
 * To visit website we should connect to Domain Name System (DNS) server in any where website in the world.
 ## Structure 
 * In coding we have a tags describe the coding type, for example 
-<!DOCTYPE HTML> is for HTML5 coing and so on, and for tages we have open tag 
+&lt; !DOCTYPE HTML &gt; is for HTML5 coing and so on, and for tages we have open tag 
 <character attribute> also closing one </ the same character>, often we use this formula for most of them but not all, some of tags haven't aclosing tag.
 
 ## Extra Markup
 | **Tag** | describtion |
 | ------- | ----------- |
 | &lt; !DOCTYPE HTML &gt; | as we mentioned before for HTML5 coding |
-|(<!-- comment -->) | for comment it will not appear in web page it's for coding just |
+|(&lt; !-- comment --> &gt; | for comment it will not appear in web page it's for coding just |
 | <character ***id="text"***> | the bold italic sentence for giving for tag an id and call it when need that by hash tag sign (#) |
 | <character ***class="text"***> | the bold italic sentence for giving for tag a class and call it when need that by dote sign (.) |
-| <div> | for group of elements in a block |
-| <span> | for group of element in a inline |
-| <iframe> | to open another website in same website that you make |
+| &lt; div &gt; | for group of elements in a block |
+| &lt; span &gt; | for group of element in a inline |
+| &lt; iframe &gt; | to open another website in same website that you make |
 * There are a block statment tage thats mean it will take the page in separate line like <p> tag, on the other hand we have inline statment tag it appears in the same line of other inline tages like <b> tag.
 * escape charater 
 ![img](https://i.pinimg.com/originals/e9/06/5f/e9065fb4413e79caec092dbc14e1a6cf.jpg)
