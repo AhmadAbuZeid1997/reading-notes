@@ -11,7 +11,7 @@
 ## Extra Markup
 | **Tag** | describtion |
 | ------- | ----------- |
-| (<!DOCTYPE HTML>) | as we mentioned before for HTML5 coding |
+| &lt; !DOCTYPE HTML &gt; | as we mentioned before for HTML5 coding |
 |(<!-- comment -->) | for comment it will not appear in web page it's for coding just |
 | <character ***id="text"***> | the bold italic sentence for giving for tag an id and call it when need that by hash tag sign (#) |
 | <character ***class="text"***> | the bold italic sentence for giving for tag a class and call it when need that by dote sign (.) |
