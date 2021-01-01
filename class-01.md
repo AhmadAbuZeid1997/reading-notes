@@ -12,7 +12,7 @@
 | **Tag** | describtion |
 | ------- | ----------- |
 | &lt; !DOCTYPE HTML &gt; | as we mentioned before for HTML5 coding |
-|(&lt; !-- comment --> &gt; | for comment it will not appear in web page it's for coding just |
+|&lt; !-- comment -- &gt; | for comment it will not appear in web page it's for coding just |
 | <character ***id="text"***> | the bold italic sentence for giving for tag an id and call it when need that by hash tag sign (#) |
 | <character ***class="text"***> | the bold italic sentence for giving for tag a class and call it when need that by dote sign (.) |
 | &lt; div &gt; | for group of elements in a block |
@@ -23,6 +23,7 @@
 ![img](https://i.pinimg.com/originals/e9/06/5f/e9065fb4413e79caec092dbc14e1a6cf.jpg)
 ## HTML5
 * HTML5 define the header and footer tags in the body tag in coding page while the troditional HTML can't.
+  
 | Element | discribtion |
 | ------- | ----------- |
 | <header> | element represents a container for introductory content or a set of navigational links |
