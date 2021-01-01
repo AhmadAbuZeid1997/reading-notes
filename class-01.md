@@ -5,11 +5,11 @@
 * To visit website we should connect to Domain Name System (DNS) server in any where website in the world.
 ## Structure 
 * In coding we have a tags describe the coding type, for example 
-&lt; !DOCTYPE HTML &gt; is for HTML5 coing and so on, and for tages we have open tag 
+&lt; !DOCTYPE HTML &gt; is for HTML5 coding and so on, and for tags we have open tag 
 &lt; character attribute &gt; also closing one &lt; / the same character &gt;, often we use this formula for most of them but not all, some of tags haven't aclosing tag.
 
 ## Extra Markup
-| **Tag** | describtion |
+| **Tag** | description |
 | ------- | ----------- |
 | &lt; !DOCTYPE HTML &gt; | as we mentioned before for HTML5 coding |
 |&lt; !-- comment -- &gt; | for comment it will not appear in web page it's for coding just |
@@ -18,13 +18,13 @@
 | &lt; div &gt; | for group of elements in a block |
 | &lt; span &gt; | for group of element in a inline |
 | &lt; iframe &gt; | to open another website in same website that you make |
-* There are a block statment tage thats mean it will take the page in separate line like <p> tag, on the other hand we have inline statment tag it appears in the same line of other inline tages like &lt; b &gt; tag.
+* There are a block statement tage thats mean it will take the page in separate line like <p> tag, on the other hand we have inline statment tag it appears in the same line of other inline tages like &lt; b &gt; tag.
 * escape charater 
 ![img](https://i.pinimg.com/originals/e9/06/5f/e9065fb4413e79caec092dbc14e1a6cf.jpg)
 ## HTML5
 * HTML5 define the header and footer tags in the body tag in coding page while the troditional HTML can't.
   
-| Element | discribtion |
+| Element | discription |
 | ------- | ----------- |
 | &lt; header &gt; | element represents a container for introductory content or a set of navigational links |
 | &lt; footer &gt; | element defines a footer for a document or section |
