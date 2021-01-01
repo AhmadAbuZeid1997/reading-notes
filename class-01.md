@@ -6,19 +6,19 @@
 ## Structure 
 * In coding we have a tags describe the coding type, for example 
 &lt; !DOCTYPE HTML &gt; is for HTML5 coing and so on, and for tages we have open tag 
-<character attribute> also closing one </ the same character>, often we use this formula for most of them but not all, some of tags haven't aclosing tag.
+&lt; character attribute &gt; also closing one &lt; / the same character &gt;, often we use this formula for most of them but not all, some of tags haven't aclosing tag.
 
 ## Extra Markup
 | **Tag** | describtion |
 | ------- | ----------- |
 | &lt; !DOCTYPE HTML &gt; | as we mentioned before for HTML5 coding |
 |&lt; !-- comment -- &gt; | for comment it will not appear in web page it's for coding just |
-| <character ***id="text"***> | the bold italic sentence for giving for tag an id and call it when need that by hash tag sign (#) |
-| <character ***class="text"***> | the bold italic sentence for giving for tag a class and call it when need that by dote sign (.) |
+| &lt; character ***id="text"*** &gt; | the bold italic sentence for giving for tag an id and call it when need that by hash tag sign (#) |
+| &lt; character ***class="text"*** &gt; | the bold italic sentence for giving for tag a class and call it when need that by dote sign (.) |
 | &lt; div &gt; | for group of elements in a block |
 | &lt; span &gt; | for group of element in a inline |
 | &lt; iframe &gt; | to open another website in same website that you make |
-* There are a block statment tage thats mean it will take the page in separate line like <p> tag, on the other hand we have inline statment tag it appears in the same line of other inline tages like <b> tag.
+* There are a block statment tage thats mean it will take the page in separate line like <p> tag, on the other hand we have inline statment tag it appears in the same line of other inline tages like &lt; b &gt; tag.
 * escape charater 
 ![img](https://i.pinimg.com/originals/e9/06/5f/e9065fb4413e79caec092dbc14e1a6cf.jpg)
 ## HTML5
@@ -26,15 +26,15 @@
   
 | Element | discribtion |
 | ------- | ----------- |
-| <header> | element represents a container for introductory content or a set of navigational links |
-| <footer> | element defines a footer for a document or section |
-| <nav> | element defines a set of navigation links |
-| <article> | element specifies independent, self-contained content |
-| <aside> | element defines some content aside from the content it is placed in (like a sidebar) |
-| <section> | element defines a section in a document |
-| <figure>/<figcaption> | <figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc <figcaption> and element can be placed as the first or as the last child of a <figure> element |
-| <div> | tag defines a division or a section in an HTML document |
-| <hgroup> | element represents a multi-level heading for a section of a document |
+| &lt; header &gt; | element represents a container for introductory content or a set of navigational links |
+| &lt; footer &gt; | element defines a footer for a document or section |
+| &lt; nav &gt; | element defines a set of navigation links |
+| &lt; article &gt; | element specifies independent, self-contained content |
+| &lt; aside &gt; | element defines some content aside from the content it is placed in (like a sidebar) |
+| &lt; section &gt; | element defines a section in a document |
+| &lt; figure &gt;/ &lt; figcaption &gt; | &lt; figure &gt; tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc <figcaption> and element can be placed as the first or as the last child of a &lt; figure &gt; element |
+| &lt; div &gt; | tag defines a division or a section in an HTML document |
+| &lt; hgroup &gt; | element represents a multi-level heading for a section of a document |
 ## Process & Design 
 * make wirefram ----> apply this in code (the general form of web, colos, etc...)
 
