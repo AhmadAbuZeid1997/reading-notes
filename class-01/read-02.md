@@ -1,5 +1,6 @@
 # Text 
 * this cahpter talk about headings and paragraphs and some other tags
+
 | ***Tag*** | ***function*** |
 | --- | -------- |
 | Heading &lt; h1-h6 &gt; | We have 6 types of heading tags from h1-h6 for titles and subtitles, h1 is the largest and h6 is the smallest one |
