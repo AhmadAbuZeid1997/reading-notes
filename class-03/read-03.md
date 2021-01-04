@@ -1,22 +1,24 @@
 # Lists 
 * There are three type of lists:
 1- Order list the structure written:
-&lt; ol &gt;  // openning tag for order list
-   &lt; li &gt; // openning tag for each item
+
+&lt; ol &gt;  // opening tag for order list
+   &lt; li &gt; // opening tag for each item
    &lt; / li &gt; // closing tag for each item 
 &lt; ol &gt; // closing tag for order list
 2- Unorder list 
-* It's written exactlly like order list, but write ul instead of ol.
+* It's written exactly like order list, but write ul instead of ol.
 3- definition list 
-&lt; dl &gt;  // openning tag for definition list
+&lt; dl &gt;  // opening tag for definition list
    &lt; dt &gt; // openning tag This is used to contain the term being defined 
    &lt; / dt &gt; // closing tag 
-    &lt; dd &gt; // openning tag to contain the definition
+    &lt; dd &gt; // opening tag to contain the definition
     &lt; / dd &gt; // closing tag
 &lt; ol &gt; // closing tag for order list
-* We can make nested list by compine lists with each other.
+
+* We can make nested list by combine lists with each other.
 # Boxes
-* In CSS you can call some charater and change the properties here some it 
+* In CSS you can call some character and change the properties here some it 
 
 | ***Order*** | ***Details*** |
 | ----------- | ------------- |
@@ -25,7 +27,7 @@
 | min-width | property defines the minimum width of an element |
 | max-width | property defines the maximum width of an element |
 | min-height | property defines the minimum height of an element |
-| max-height | property defines the maximum hright of an element |
+| max-height | property defines the maximum height of an element |
 | overflow | property controls what happens to content that is too big to fit into an area |
 | border-width | property sets the width of an element's four borders |
 | border-style | property specifies what kind of border to display |
@@ -40,16 +42,16 @@
 | border-radius | property defines the radius of the element's corners |
 
 # Arrays 
-* We can assign row of values to one variable by assign values between brackets seperated by comma for example
+* We can assign row of values to one variable by assign values between brackets separated by comma for example
 var x=['ahmad', 'mohammad', 'Abu Zeid']
 # Condition & Loop Statement
-* **If statement** condition statement that take two possible reaction acording to logical value
+* **If statement** condition statement that take two possible reaction according to logical value
 If (condition) {
     action to do if true
 }else {
     action to do if fulse
 }
- * **Switch** statement take specific action acording to value received 
+ * **Switch** statement take specific action according to value received 
  switch (leveel){
      case 'one';
      action to do 
