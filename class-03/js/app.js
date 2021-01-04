@@ -1,8 +1,4 @@
 'use strict';
-var client= prompt('what is your name?')
-while (client===''||client===null||client===undefined) {
-    client= prompt('what is your name?')
-}
 alert('Hi '+client+'! Welcome to our website:)')
 var qu= confirm('Your are gonna to guessing some question about me, are you ready?')
 console.log('qu',qu)
