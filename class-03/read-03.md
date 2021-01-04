@@ -1,7 +1,7 @@
 # Lists 
 * There are three type of lists:
 1- Order list the structure written:
-
+```
 &lt; ol &gt;  // opening tag for order list
 
    &lt; li &gt; // opening tag for each item
@@ -9,11 +9,11 @@
    &lt; / li &gt; // closing tag for each item 
    
 &lt; ol &gt; // closing tag for order list
-
+```
 2- Unorder list It's written exactly like order list, but write ul instead of ol.
 
 3- definition list 
-
+```
 &lt; dl &gt;  // opening tag for definition list
 
    &lt; dt &gt; // openning tag This is used to contain the term being defined 
@@ -25,7 +25,7 @@
     &lt; / dd &gt; // closing tag
     
 &lt; ol &gt; // closing tag for order list
-
+```
 * We can make nested list by combine lists with each other.
 # Boxes
 * In CSS you can call some character and change the properties here some it 
