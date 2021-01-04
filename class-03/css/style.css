@@ -1,1 +1,39 @@
+header{
+    width: auto;
+    height: 100px;
+    background-color: yellowgreen;
+    margin: 0px;
+}
+main{
+    width: auto;
+    height: 450px;
+    background-color: yellow;
+    margin: 0px
+}
+fieldset{
+    padding-left: 8rem;
+    margin: 1rem 0;
+    position: relative;
+    border-color: rebeccapurple;
+    color: rebeccapurple;
+}
+fieldset::before{
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    top: 0.4rem;
+    left: 0;
+    border-width: 1rem;
+    border-color: currentColor;
+    border-style: solid;
+    border-bottom-color: transparent;
+}
+legend{
+    margin-left: -6rem;
+    color: currentColor;
+    padding: 0 1rem;
+    font-size: 1rem;
+    line-height: 1;
 
+}
