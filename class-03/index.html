@@ -5,12 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ِAbout Me</title>
     <link rel="stylesheet" href="css/style.css">
+    <script>
+        var client= prompt('what is your name?')
+while (client===''||client===null||client===undefined) {
+    client= prompt('what is your name?')
+}
+    </script>
 </head>
 <body>
     <header>
 <h1>About US</h1>
         <script>
-            document.write('Hi '+client+' Welcome to our website')
+    document.write('Hi '+client+'! Welcome to our website')
             </script>
     </header>
     <hr />
