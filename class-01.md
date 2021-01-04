@@ -9,6 +9,7 @@
 &lt; character attribute &gt; also closing one &lt; / the same character &gt;, often we use this formula for most of them but not all, some of tags haven't aclosing tag.
 
 ## Extra Markup
+
 | **Tag** | description |
 | ------- | ----------- |
 | &lt; !DOCTYPE HTML &gt; | as we mentioned before for HTML5 coding |
@@ -18,11 +19,13 @@
 | &lt; div &gt; | for group of elements in a block |
 | &lt; span &gt; | for group of element in a inline |
 | &lt; iframe &gt; | to open another website in same website that you make |
+
 * There are a block statement tage thats mean it will take the page in separate line like <p> tag, on the other hand we have inline statment tag it appears in the same line of other inline tages like &lt; b &gt; tag.
 * escape charater 
 ![img](https://i.pinimg.com/originals/e9/06/5f/e9065fb4413e79caec092dbc14e1a6cf.jpg)
 ## HTML5
 * HTML5 define the header and footer tags in the body tag in coding page while the troditional HTML can't.
+  
   
 | Element | discription |
 | ------- | ----------- |
@@ -35,6 +38,7 @@
 | &lt; figure &gt;/ &lt; figcaption &gt; | &lt; figure &gt; tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc <figcaption> and element can be placed as the first or as the last child of a &lt; figure &gt; element |
 | &lt; div &gt; | tag defines a division or a section in an HTML document |
 | &lt; hgroup &gt; | element represents a multi-level heading for a section of a document |
+  
 ## Process & Design 
 * make wirefram ----> apply this in code (the general form of web, colos, etc...)
 
