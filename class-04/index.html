@@ -1,1 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ِAbout Me</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script>
+        var client = prompt('what is your name?')
+        while (client === '' || client === null || client === undefined) {
+            client = prompt('what is your name?')
+        }
+    </script>
+</head>
+
+<body>
+    <header>
+        <h1>About US</h1>
+        <script>
+            document.write('Hi ' + client + '! Welcome to our website')
+        </script>
+    </header>
+    <hr />
+    <main>
+        <fieldset>
+            <legend>Personal Info</legend>
+            <p>My Name: &nbsp; Ahmad Abu Zeid</p>
+            <p>Age: &nbsp; 24 years</p>
+        </fieldset>
+        <fieldset>
+            <legend>Educational History</legend>
+            <ul>
+                <li> I studied in Al-Hussain high school, I got 89% mark</li>
+                <li> I went to univrsity of Jordan and studied mechanical engineering </li>
+                <li> I graduated in sep 2020 with GPA 3 out of 4, that's mean i have a very good appreciation </li>
+            </ul>
+        </fieldset>
+        <fieldset>
+            <legend>Experiance</legend>
+            <ul>
+                <li> Actually i am still fresh graduted until now</li>
+                <li> My traning program in university was in pump maintenance and irrgation systems</li>
+                <li> after that i toke a course in PLC, Classical Control, HMI, and SCADA over a
+                    course of 80 hrs</li>
+            </ul>
+        </fieldset>
+        <fieldset>
+            <legend>Fav</legend>
+            <p><b>Top Favorite Movie</b></p>
+            <ol type="1">
+                <li>The Showshank Redemption</li>
+                <li>Batman Dark Night</li>
+                <li>Batman Dark Night Rises</li>
+                <li>Batman Begins</li>
+                <li>Maze Runer</li>
+                <li class="mv">Exam</li>
+                <li class="mv">Shutter Island</li>
+                <li class="mv">Little Man</li>
+                <li class="mv">Quite Place</li>
+                <li class="mv">Snowpiercer</li>
+            </ol>
+        </fieldset>
+    </main>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>
