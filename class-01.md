@@ -10,8 +10,8 @@
 
 ## Extra Markup
 
-| **Tag** | description |
-| ------- | ----------- |
+| **Tag** | ***description*** |
+|---------|-------------------|
 | &lt; !DOCTYPE HTML &gt; | as we mentioned before for HTML5 coding |
 |&lt; !-- comment -- &gt; | for comment it will not appear in web page it's for coding just |
 | &lt; character ***id="text"*** &gt; | the bold italic sentence for giving for tag an id and call it when need that by hash tag sign (#) |
