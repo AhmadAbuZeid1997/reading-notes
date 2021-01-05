@@ -22,7 +22,7 @@
   - **right**
   - **none**
   - **inherit**
-  * **clear** specifies what elements can float beside the cleared element and on which side
+* **clear** specifies what elements can float beside the cleared element and on which side
   - **left**
   - **right**
   - **both**
