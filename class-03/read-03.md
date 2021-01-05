@@ -1,20 +1,19 @@
 # Lists 
 * There are three type of lists:
 1- Order list the structure written:
-```
-< ol >  // opening tag for order list
+```< ol >  // opening tag for order list
 
    < li > // opening tag for each item
    
    < / li > // closing tag for each item 
    
-< ol > // closing tag for order list
+< ol > // closing tag for order list```
 ```
+
 2- Unorder list It's written exactly like order list, but write ul instead of ol.
 
 3- definition list 
-```
-< dl >  // opening tag for definition list
+```< dl >  // opening tag for definition list
 
    < dt > // openning tag This is used to contain the term being defined 
    
@@ -24,7 +23,7 @@
     
     < / dd > // closing tag
     
-< ol > // closing tag for order list
+< ol > // closing tag for order list```
 ```
 * We can make nested list by combine lists with each other.
 # Boxes
