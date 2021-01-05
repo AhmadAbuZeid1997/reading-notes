@@ -54,9 +54,16 @@ nameoffuntion(inputs);
  2. **Navigator**
     - Use his/her word to guide the driver
  * There are 6 reason for pair programming:
+ 
  a. Greater efficiency
+ 
  b. Engaged collaboration
+ 
  c. Learning from fellow students 
+ 
  d. Social skills
+ 
  e. Job interview readiness
+ 
  f. Work environment readiness
+ 
