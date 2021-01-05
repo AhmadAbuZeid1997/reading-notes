@@ -29,13 +29,15 @@
   - **none**
   - **inherit**
  * Difference between fixed and Fluid layouts
+ 
  | ***Property*** | ***Fixed Layout*** | ***Liquid Layout*** |
- | -- | -- | -- |
+ |----------------|--------------------|---------------------|
  | Width of wrap | in Pixels ( 960px, 1200px) | in Percentage or auto, for exp 80% |
  | Height | in Pixels or auto | automatic |
  | Device Compatibility | for devices greater than their width | remain Same. Do not compress |
  | Text Scrolling on various Devices | remain same | text scroll down |
  | Print Friendly | yes | no |
+ 
  # Function
  * Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function.
  * Declare funtion
