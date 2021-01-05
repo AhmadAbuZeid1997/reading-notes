@@ -27,8 +27,8 @@
 * HTML5 define the header and footer tags in the body tag in coding page while the troditional HTML can't.
   
   
-| Element | discription |
-| ------- | ----------- |
+| ***Element*** | ***discription*** |
+|---------------|-------------------|
 | &lt; header &gt; | element represents a container for introductory content or a set of navigational links |
 | &lt; footer &gt; | element defines a footer for a document or section |
 | &lt; nav &gt; | element defines a set of navigation links |
