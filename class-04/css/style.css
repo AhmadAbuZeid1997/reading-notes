@@ -1,8 +1,21 @@
 header{
     width: auto;
     height: 100px;
-    background-color: yellowgreen;
+   top: 0%;
+   bottom: 0;
     margin: 0px;
+    
+}
+header div{
+    background-color: yellowgreen;
+    height: 100%;
+    width: 100%;
+   
+}
+body{
+    margin: 0;
+    top: 0;
+    bottom: 0;
 }
 main{
     width: auto;
@@ -29,10 +42,37 @@ fieldset::before{
     border-style: solid;
     border-bottom-color: transparent;
 }
-legend{
+leg{
     margin-left: -6rem;
     color: currentColor;
     padding: 0 1rem;
     font-size: 1rem;
     line-height: 1;
+    position: sticky;
+
+}
+footer{
+    background-color: yellowgreen;
+    height: 30px;
+    position: relative;
+    bottom: 0;
+    margin: 0;
+    top: 0;
+}
+#fot{
+    position: relative;
+    text-align: center;
+    font-size: 1rem;
+}
+.dec{
+    float:right;
+    margin: 3rem;
+    font-size: 20px;
+    
+}
+.des{
+    position: absolute;
+    right: 20px;
+    top: 0px;
+    list-style-type: none;
 }
