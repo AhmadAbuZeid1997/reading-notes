@@ -31,7 +31,7 @@ if (qu == true) {
 	questions('I have 10 brothers.?');
 	questions('I have 3 sisters.?');
 	questions('Is that true about i love anime.?');
-}
+
 
 var i = 4;
 do {
@@ -125,3 +125,4 @@ outer: do {
 } while (i > 0);
 
 alert('you have ' + t + ' correct answer from 7 answer');
+}
