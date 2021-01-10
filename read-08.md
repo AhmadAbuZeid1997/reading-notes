@@ -35,6 +35,6 @@
  | Print Friendly | yes | no |
  
  * Possible grid layout 
- ![grid](https://i1.wp.com/www.cssscript.com/wp-content/uploads/2018/12Tiny-Flexbox-Grid-Layout-In-Pure-CSS-infinity-css-grid.png?fit=565%2C376&ssl=1.jpg)
+ ![grid!](https://i1.wp.com/www.cssscript.com/wp-content/uploads/2018/12Tiny-Flexbox-Grid-Layout-In-Pure-CSS-infinity-css-grid.png?fit=565%2C376&ssl=1.jpg)
  
  * @import is used to import a CSS style url from other source that you dont have, while use link to connect you owen CSS file.
