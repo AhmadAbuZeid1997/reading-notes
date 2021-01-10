@@ -1,5 +1,5 @@
 # Domain Modeling 
-* Domain modleing is to write the problem you have in coding, and the function of each statement code you wrote, it should write as acomment within the code.
+* Domain modeling is to write the problem you have in coding, and the function of each statement code you wrote, it should write as acomment within the code.
 ## Model epic fails videos
 * if you need to add something to your code it is better to write by hand until it works, dot copy the code from other sources that to aquire the skill of writing from nothing.
 ## Define a constructor and initialize properties
