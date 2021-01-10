@@ -6,8 +6,8 @@
 |Read-04 | [click here](https://ahmadabuzeid1997.github.io/reading-notes/class-04/read-04)|
 |Read-05 |[click here](https://ahmadabuzeid1997.github.io/reading-notes/class-05/read-05) |
 |Read-06 |[click here](https://ahmadabuzeid1997.github.io/reading-notes/read-06) |
-| | |
-| | |
+|Read-07|[click here](https://ahmadabuzeid1997.github.io/reading-notes/read-07 |
+|Read-08 |[click here](https://ahmadabuzeid1997.github.io/reading-notes/read-08 |
 | | |
 | | |
 | | |
