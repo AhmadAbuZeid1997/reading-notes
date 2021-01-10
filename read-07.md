@@ -1,5 +1,5 @@
 # Domain Modeling 
-* Domain moding is to write the problem you have in coding, and the function of each satatement code you wrote, it should write as acomment within the code.
+* Domain modleing is to write the problem you have in coding, and the function of each statement code you wrote, it should write as acomment within the code.
 ## Model epic fails videos
 * if you need to add something to your code it is better to write by hand until it works, dot copy the code from other sources that to aquire the skill of writing from nothing.
 ## Define a constructor and initialize properties
@@ -34,10 +34,10 @@
 &gt;/ table &lt; 
 
 * Spanning Column
-  - To merege two sells in vertical way or more.
+  - To merge two sells in vertical way or more.
   &gt; td  colspan="2 or any number" &lt;        &gt;/ tr &lt;
 
-* Sppaning rows 
+* Spaning rows 
   - The same of spanning column but use rowspan="5 or any number"
 
 * For long table use
@@ -82,5 +82,5 @@
   - room[0]=[ room1= 240 , room2=15 ,room3=100]..
 
 * Brower object model contains objects that represent the current browser window or tab. It contains objects that model things like browser history and the device's screen. 
-* Documentt object model  uses objects to create a representation of the current page. It creates a new object for each element (and each individual section of text) within the page. 
-* Global javascript objects represent things that the JavaScript language needs to create a model of. For example, there is an object that deals only with dates and times. 
+* Document object model  uses objects to create a representation of the current page. It creates a new object for each element (and each individual section of text) within the page. 
+* Global JavaScript objects represent things that the JavaScript language needs to create a model of. For example, there is an object that deals only with dates and times. 
