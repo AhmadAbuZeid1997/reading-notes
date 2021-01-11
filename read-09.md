@@ -47,6 +47,103 @@
 
 * &lt; legend &gt; inside fieldset to make title 
 
+# Lists, Tables and Forms
+## unorder List and Table atrribute
+* We are gonna to list some table attributes 
+* &lt; ul &gt; unorder list atrributes
+  - list-style-type  bullet style
+    - disc
+    - circle
+    - square
+    - none 
+  - list-style-image put image as bullet
+  - list-style-position position for bullet
+    - inside
+    - outside
+
+* &lt; ol &gt; order list style
+  - ist-style-type  numbering style
+    - decimal
+    - decimal-leading-zero
+    - lower-alpha
+    - upper-alpha
+    - lower-roman
+    - upper-roman 
+
+* &lt; table &gt; table attribute
+  - width
+  - empty-cells
+    - show
+    - hide
+    - inherit
+  - border-spacing 
+  - border-collapse
+    - collapse
+    - separate
+
+* &lt; td &gt; /&lt; th &gt; table head and data
+  - padding
+  - text-transform 
+    - uppercase 
+    - lowercase
+  - letter-spacing
+  - font-size
+  - border-top
+  - border-bottom
+  - text-align
+    - right 
+    - left
+    - center
+  - background-color 
+  - :hover to give highlight when mouse on it, it's written like ```hr:hover```
+
+## Forms
+* Formes is an empty space to input data from user
+* &lt; input &gt; for text
+  - font-size
+  - color
+  - background-color 
+  - border
+  - border-radius to make the corner rounded 
+  - :focus & :hover change background color when select
+  - background-image
+
+* &lt; input &gt; for button
+  - color
+  - text-shadow
+  - border-bottom 
+  - background-color 
+  - :hover
+
+* &lt; fieldset &gt; & &lt; legend &gt;
+  - width
+  - color
+  - background-color
+  - border
+  - border-radius
+  - padding
+
+* &lt; a &gt;
+  - cursor
+    - auto
+    - crosshair
+    - default
+    - pointer
+    - move
+    - text
+    - wait
+    - help
+    - url("cursor.gif");
+
+# Events
+* Type of events
+  - User interface
+  - Keyboard
+  - Mouse 
+  - Focus
+  - Form
+  - Mutation
+  
 
  
 
