@@ -1,4 +1,4 @@
-# Formes 
+# Forms 
 * Forms used to make a space to get information from visitors
 * Structure of the forms
   - &lt; form &gt; form tag and the attribute add below
