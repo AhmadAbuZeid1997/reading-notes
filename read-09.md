@@ -1,21 +1,21 @@
 # Formes 
-* Formes used to make a space to get informanyion from visitors
-* Strcuture of the formes
+* Forms used to make a space to get information from visitors
+* Structure of the forms
   - &lt; form &gt; form tag and the attribute add below
     - action it's require for form include URL that will receive the information
     - method we have to method 
       - get for short forms or when you are just retrieving data from the web server
-      - post allows users to upload a file, form is very long, contain sensitve data and adds information to, or deletes information from, a database
+      - post allows users to upload a file, form is very long, contain sensitive data and adds information to, or deletes information from, a database
 
 * Text input
   - &lt; input &gt; input tag and the attributes is
     - type type of input data
-      - text for lettars 
+      - text for letters 
       - password for hidden text as a stars 
       - radio to pick on option from a group option
       - check box to pick option one or more from group option 
       - file to upload files
-      - submit to make submit botton
+      - submit to make submit button
       - image to upload image 
       - hidden to make hidden input 
       - email for email input
@@ -23,22 +23,22 @@
       -search to search queries
       - date enter date
     - name put name for space
-    - maxlength detemine the max character can inter
-    - size dimention of space
+    - maxlength determine the max character can inter
+    - size dimension of space
     - value to send certain value for server
     - checked to make one option selected by default you can make more one value in checkbox
-    - placeholder light grey text exsist by default 
+    - placeholder light grey text exsit by default 
 
 * &lt; textarea &gt; make space area to write comments for example
 
 * &lt; select &gt; drop down list 
   - name to give a name for box 
-  - size dimention of list box 
+  - size dimension of list box 
   - multiple allow use to choose more than one value
 
 * &lt; option &gt; inside the select to make list value
   - value name of value
-  - selected value seleced by default
+  - selected value selected by default
 
 * &lt; label &gt; work as a input with type radio
   - for value of option 
@@ -48,7 +48,7 @@
 * &lt; legend &gt; inside fieldset to make title 
 
 # Lists, Tables and Forms
-## unorder List and Table atrribute
+## unorder List and Table attribute
 * We are gonna to list some table attributes 
 * &lt; ul &gt; unorder list atrributes
   - list-style-type  bullet style
@@ -98,7 +98,7 @@
   - :hover to give highlight when mouse on it, it's written like ```hr:hover```
 
 ## Forms
-* Formes is an empty space to input data from user
+* Forms is an empty space to input data from user
 * &lt; input &gt; for text
   - font-size
   - color
