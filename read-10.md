@@ -1,21 +1,21 @@
 # Error Handling & Debugging
-* This chapter explian how to find error and to make script easier
+* This chapter explain how to find error and to make script easier
 * You need to know how script is gone; because there are a statement code will not run until the error fixed
 * Execution context
   - Global context in the main code and it's run when browser open
-  - Funtion context in the body of function it's run when invoke it
+  - Function context in the body of function it's run when invoke it
   - Eval context not shown 
 
 * Variable scope
-  - Global scope esed any where in code 
-  - Functional scope or local scope used inside funtion only
+  - Global scope used any where in code 
+  - Functional scope or local scope used inside function only
 
-* When run the code you can open the consel from inspect to see the error, In the red on the left, you can see this is a SyntaxError, On the right, you can see that the error happened in a file called errors.
+* When run the code you can open the counsel from inspect to see the error, In the red on the left, you can see this is a Syntax Error, On the right, you can see that the error happened in a file called errors.
 
 ## Error object continued
-1- Syntax Error you miss a qutation or comma or some thing else
-2- Reference Error undefind variable or function
-3- Type Error writting function in wrong way 
+1- Syntax Error you miss a quotation or comma or some thing else
+2- Reference Error undefined variable or function
+3- Type Error writing function in wrong way 
 4- Range Error
 5- Eval Error incorrect in using eval function
 6- URL Error wrong URL 
