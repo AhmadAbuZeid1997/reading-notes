@@ -11,7 +11,7 @@
 |Read-09 |[click here](https://ahmadabuzeid1997.github.io/reading-notes/read-9) |
 |Read-10 |[click here](https://ahmadabuzeid1997.github.io/reading-notes/read-10) |
 |Read-11 |[click here](https://ahmadabuzeid1997.github.io/reading-notes/read-11) |
-| | |
+|Read-12 |[click here](https://ahmadabuzeid1997.github.io/reading-notes/read-12) |
 | | |
 | | |
 | | |
